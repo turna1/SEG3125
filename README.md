@@ -34,7 +34,7 @@ This repository contains:
   - Course-related resources, documentation, and reference materials.
   - Links to external tutorials for further learning on web design and UI development.
 - **Practice Examples**
-  - Example assignments to practice and enhance your learnings [COMING SOON].
+  - Examples to practice and enhance your learnings.
     
  **Tools Used**
 - Code Editor: W3School [Try it yourself editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic).
