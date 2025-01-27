@@ -15,7 +15,7 @@
 
 ## About the Course
 
-SEG3125 focuses on the principles of designing and evaluating user interfaces for software systems. The course emphasizes usability, accessibility, and user-centric design practices. Students will learn to create intuitive, responsive, and aesthetically pleasing web interfaces using mockups, prototypes, and basic web technologies.
+SEG3125 focuses on the principles of designing and evaluating user interfaces for software systems. The course emphasizes usability, accessibility, and user-centric design practices. Students will learn to create intuitive, responsive, and intutive user interfaces using mockups, prototypes.
 
 ## Repository Contents
 This repository contains:
@@ -64,7 +64,7 @@ For questions related to the course or this repository, you can contact:
 **Prof. Abdulmotaleb El Saddik**
 - Email: elsaddik@uottawa.ca
 - **Rahatara Ferdousi (TA)**
-- - Email: rferd068@uottawa.ca
+-  Email: rferd068@uottawa.ca
 
 ## Disclaimer
 
