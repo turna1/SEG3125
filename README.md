@@ -1,9 +1,16 @@
 # SEG3125: Analysis and  Design of User Interfaces – Course Resources
-Welcome to SEG3125: Analysis and  Design of User Interfaces , offered by Professor Abdulmotaleb El Saddik. This repository contains resources, example codes, and guidance to help students understand and implement the fundamental concepts of web design and user interface prototyping.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/84f42101-0573-45fd-b315-b30af6c3a954" alt="Course Image">
+  <br><br>
+  <strong>
+      Welcome to SEG3125: Analysis and Design of User Interfaces</strong>, offered by Professor Abdulmotaleb El Saddik. This repository contains resources, example codes, and guidance to help students understand and implement the fundamental concepts of web design and user interface prototyping.
+</p>
 
 # Course Professor 
 **Prof. Abdulmotaleb El Saddik**
-FRSC, FIEEE, FCAE, FEIC Distinguished Professor. Multimedia Communications Research Lab
+-FRSC, FIEEE, FCAE, FEIC
+-Distinguished Professor. Multimedia Communications Research Lab
 
 
 ## About the Course
