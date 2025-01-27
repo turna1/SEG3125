@@ -26,18 +26,12 @@ This repository contains:
 - **Practice Examples**
   - Example assignments to practice and enhance your learnings.
 
-## Getting Started
-2. **Explore Example Files**
-- Navigate to the folders to find:
-  - Basic HTML/CSS/JavaScript templates in the `web-design/` directory.
-  - Mockup and prototype examples in the `mockup-prototypes/` directory.
-
-3. **Run Locally**
-- Open the `.html` files in your preferred browser to view the examples. Modify the code and test different designs.
-
-4. **Tools to Use**
+ **Tools Used**
 - Code Editor: W3School Try it yourself editor.
-- Mockup Tools: Figma 
+- Mockup Tools: Figma
+**Hosting Platform Used**
+  -Github Pages
+  -Huggingface Space
 
 ## Prerequisites
 
