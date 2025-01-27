@@ -17,10 +17,10 @@ This repository contains:
     - [Figma Editable Mockup Link](https://www.figma.com/design/qgSlzzMoZD74MuWJINQyEl/SEG-3125-Test?node-id=0-1&t=wtLnYpA0bPkYaHKg-1)
   Password: SEG3125
 - **Basic Web Design Code**
-  - HTML, CSS, and JavaScript examples to help you build responsive web interfaces.
-  - Examples of clean and semantic code for structuring websites.
- - Prototype designs created using bsic web programming.
-  - Downloadable files and code for rapid prototyping of user interfaces.
+- HTML, CSS, and JavaScript examples to help you build responsive web interfaces.
+- Examples of clean and semantic code for structuring websites.
+- Prototype designs created using bsic web programming.
+- Downloadable files and code for rapid prototyping of user interfaces.
  - **Basic AI Chatbot Design Code**
    -COMING SOON
 - **Resources**
@@ -34,6 +34,7 @@ This repository contains:
 - Mockup Tools: [Figma for Education](https://www.figma.com/education/)
 **Hosting Platform Used**
   -[Github Pages](https://pages.github.com/)
+  
   -[Huggingface Space](https://huggingface.co/)
 
 ## Prerequisites
