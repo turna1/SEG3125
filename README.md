@@ -12,12 +12,15 @@ SEG3125 focuses on the principles of designing and evaluating user interfaces fo
 
 ## Repository Contents
 This repository contains:
-- **Mockup Prototype Examples**
-  - Prototype designs created using popular tools such as Figma.
-  - Downloadable files and code for rapid prototyping of user interfaces.
+- **Mockup Examples**
+    -Editable Mockup Example on Figma
+    - [Figma Editable Mockup Link](https://www.figma.com/design/qgSlzzMoZD74MuWJINQyEl/SEG-3125-Test?node-id=0-1&t=wtLnYpA0bPkYaHKg-1)
+  Password: SEG3125
 - **Basic Web Design Code**
   - HTML, CSS, and JavaScript examples to help you build responsive web interfaces.
   - Examples of clean and semantic code for structuring websites.
+ - Prototype designs created using bsic web programming.
+  - Downloadable files and code for rapid prototyping of user interfaces.
  - **Basic AI Chatbot Design Code**
    -COMING SOON
 - **Resources**
@@ -25,7 +28,7 @@ This repository contains:
   - Links to external tutorials for further learning on web design and UI development.
 - **Practice Examples**
   - Example assignments to practice and enhance your learnings.
-
+    
  **Tools Used**
 - Code Editor: W3School Try it yourself editor.
 - Mockup Tools: Figma
@@ -41,7 +44,6 @@ Before diving into the examples, ensure you have a basic understanding of:
 - Wireframing and prototyping concepts
 
 ## Contribution Guidelines
-
 If you’d like to contribute to this repository:
 1. Fork the repository.
 2. Create a new branch for your updates.
