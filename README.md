@@ -40,6 +40,7 @@ This repository contains:
 - Code Editor: W3School [Try it yourself editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic).
 - Mockup Tools: [Figma for Education](https://www.figma.com/education/)
 **Hosting Platform Used**
+  
   -[Github Pages](https://pages.github.com/)
   
   -[Huggingface Space](https://huggingface.co/)
