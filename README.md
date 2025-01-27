@@ -27,14 +27,14 @@ This repository contains:
   - Course-related resources, documentation, and reference materials.
   - Links to external tutorials for further learning on web design and UI development.
 - **Practice Examples**
-  - Example assignments to practice and enhance your learnings.
+  - Example assignments to practice and enhance your learnings [COMING SOON].
     
  **Tools Used**
-- Code Editor: W3School Try it yourself editor.
-- Mockup Tools: Figma
+- Code Editor: W3School [Try it yourself editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic).
+- Mockup Tools: [Figma for Education](https://www.figma.com/education/)
 **Hosting Platform Used**
-  -Github Pages
-  -Huggingface Space
+  -[Github Pages](https://pages.github.com/)
+  -[Huggingface Space](https://huggingface.co/)
 
 ## Prerequisites
 
