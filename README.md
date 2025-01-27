@@ -13,7 +13,7 @@ SEG3125 focuses on the principles of designing and evaluating user interfaces fo
 ## Repository Contents
 This repository contains:
 - **Mockup Prototype Examples**
-  - Prototype designs created using popular tools such as Figma or Adobe XD.
+  - Prototype designs created using popular tools such as Figma.
   - Downloadable files and code for rapid prototyping of user interfaces.
 - **Basic Web Design Code**
   - HTML, CSS, and JavaScript examples to help you build responsive web interfaces.
