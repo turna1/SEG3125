@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/84f42101-0573-45fd-b315-b30af6c3a954" alt="Course Image">
   <br><br>
   <strong>
-      Welcome to SEG3125: Analysis and Design of User Interfaces</strong>, offered by Professor Abdulmotaleb El Saddik. This repository contains resources, example codes, and guidance to help students understand and implement the fundamental concepts of web design and user interface prototyping.
+      Welcome to SEG3125: Analysis and Design of User Interfaces</strong>, offered by Professor Abdulmotaleb El Saddik. This repository contains resources, example codes, and guidance to help students understand and implement the fundamental concepts of Interative Use-Centered Design (UCD), Mockup, Prototyping, UX Evaluation, and Design of Futuristic Tools (e.g., AI chatbot, Immersive Space, AR/VR tools, and  Haptic tools)
 </p>
 
 # Course Professor 
