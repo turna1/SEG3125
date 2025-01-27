@@ -15,7 +15,7 @@
 
 ## About the Course
 
-SEG3125 focuses on the principles of designing and evaluating user interfaces for software systems. The course emphasizes usability, accessibility, and user-centric design practices. Students will learn to create intuitive, responsive, and intutive user interfaces using mockups, prototypes.
+SEG3125 focuses on the principles of designing and evaluating user interfaces for software systems. The course emphasizes usability, accessibility, and user-centric design practices. Students will learn to create user-centered, responsive, and intutive user interfaces using mockups, and prototypes iteratively.
 
 ## Repository Contents
 This repository contains:
