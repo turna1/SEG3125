@@ -2,9 +2,9 @@
 # 🔹 Developed for educational purposes 🎯
 
 A simple chatbot designed to assist users with **Dialectical Behavior Therapy (DBT)-related** questions.
-It costs 20 dollars/ hr to read this book with a professional.
-However, the book is freely available for self-study.
-This chatbot is built using **Gradio** and can be hosted on **Hugging Face Spaces**.
+-It costs 20 dollars/ hr to read this book with a professional.
+-However, the book is freely available for self-study.
+-This chatbot is built using **Gradio** and can be hosted on **Hugging Face Spaces**.
 
 ## 🚀 Features  
 - Answers DBT-related questions  
