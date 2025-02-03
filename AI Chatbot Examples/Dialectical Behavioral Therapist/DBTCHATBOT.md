@@ -15,13 +15,17 @@ This chatbot is built using **Gradio** and can be hosted on **Hugging Face Space
 👉 [Click Here to Use the Chatbot](https://huggingface.co/spaces/Rahatara/RAGBOT) 
 
 ## 📂 Files
-app.py - The main application script
-requirements.txt - Required dependencies
-THEDIA1.pdf- Book used for DBT knowledgebase
+-app.py - The main application script
+
+-requirements.txt - Required dependencies
+
+-THEDIA1.pdf- Book used for DBT knowledgebase
 
 ## ☁️ Deploy on Hugging Face
-Upload app.py and requirements.txt to your Hugging Face Space
-Start the Space and explore the chatbot
+-Upload app.py and requirements.txt to your Hugging Face Space
+
+-Start the Space and explore the chatbot
+
 ## 📜 Disclaimer
 This chatbot is based on publicly available DBT exercises. It is not a medical tool. Use it responsibly.
 
