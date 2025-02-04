@@ -1,4 +1,4 @@
-\### ☕ **Espresso with LeProf – Bilingual Academic Chatbot & Podcast Generator** 🎙️  
+### ☕ **Espresso with LeProf – Bilingual Academic Chatbot & Podcast Generator** 🎙️  
 
 🔹 **Developed for educational purposes** 🎯  
 A chatbot designed to assist users with **academic questions** in both **English and French**. Users can chat about a topic and generate a **custom podcast** based on their discussions.  
